@@ -1,7 +1,7 @@
 # README
 TheRailNews Sitio web de Noticias con Ruby on Rails y Heroku
 
-Web heroku: https://morning-basin-84183-1fb67fcf3317.herokuapp.com/
+Web heroku: (https://therialnews-4633923a2ffc.herokuapp.com/)
 
 Descripción Desarrollo de sitio con seguridad en los que los Posts estarán en la pagina primaria, y se podrán agregar nuevos post o news solo inscribiendose en el sitio mediante la creación de un usuario. Modelo 1 a N.
 
